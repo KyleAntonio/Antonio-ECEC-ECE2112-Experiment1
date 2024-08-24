@@ -1,5 +1,5 @@
 # Antonio-ECEC-ECE2112-Experiment1
-#### general summaries of each problem. see main code for a more detailed breakdown
+#### General summaries of each problem. see main code for a more detailed breakdown
 ## Alphabet Soup Problem
 #### For this problem, I figured that it would be easier to use the .sort function already built-in for list data-types. The general flow of this program would be, first, to take the string input from the user, convert each letter to an item on a single list, use .sort to sort them alphabetically, and then finally conver it back to a single comibned string.
 ## Emoticon Problem
